@@ -1,12 +1,11 @@
-# Wine_review_grad_cam_with_Bert
+# Wine review grad cam with Bert
 
-2019 Visualization class project
+Grad cam implementation based on Kaggle wine review data
 
-Kaggle wine review data을 기반으로 Grad_cam 구현
+Word embedding using Pretrained-Bert
 
-Pretrained-Bert를 이용하여 Word embedding
+Kaggle Denver crime data Simple analysis and classification to find the attributes that have the greatest impact on crime category predictions
 
-Kaggle Denver crime data 간단한 분석 및 범죄 카테고리 예측에 가장 큰 영향을 미치는 속성을 찾기 위한 Classification
 
 # Requirement
 * python 3.7.4
